@@ -81,16 +81,6 @@
   },
   {
     "ContainingType": "RentalManagement.Controllers.RentalsController",
-    "Method": "GetOverdueRentals",
-    "RelativePath": "api/Rentals/overdue",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RentalManagement.Controllers.RentalsController",
     "Method": "GetUserRentals",
     "RelativePath": "api/Rentals/user/{userId}",
     "HttpMethod": "GET",

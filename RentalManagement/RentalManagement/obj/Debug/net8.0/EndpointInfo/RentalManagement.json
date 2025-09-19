@@ -150,18 +150,6 @@
           }
         }
       }
-    },
-    "/api/Rentals/overdue": {
-      "get": {
-        "tags": [
-          "Rentals"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
     }
   },
   "components": {

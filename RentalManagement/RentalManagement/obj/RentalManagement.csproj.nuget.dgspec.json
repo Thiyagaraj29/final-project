@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\RentalManagement.csproj": {}
+    "C:\\Users\\labuser\\source\\repos\\RentalManagementProject\\RentalManagement\\RentalManagement\\RentalManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\RentalManagement.csproj": {
+    "C:\\Users\\labuser\\source\\repos\\RentalManagementProject\\RentalManagement\\RentalManagement\\RentalManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\RentalManagement.csproj",
+        "projectUniqueName": "C:\\Users\\labuser\\source\\repos\\RentalManagementProject\\RentalManagement\\RentalManagement\\RentalManagement.csproj",
         "projectName": "RentalManagement",
-        "projectPath": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\RentalManagement.csproj",
+        "projectPath": "C:\\Users\\labuser\\source\\repos\\RentalManagementProject\\RentalManagement\\RentalManagement\\RentalManagement.csproj",
         "packagesPath": "C:\\Users\\labuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\obj\\",
+        "outputPath": "C:\\Users\\labuser\\source\\repos\\RentalManagementProject\\RentalManagement\\RentalManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

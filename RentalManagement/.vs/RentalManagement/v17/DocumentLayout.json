@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\data\\flicksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\data\\flicksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|c:\\users\\labuser\\source\\repos\\rentalmanagement\\rentalmanagement\\data\\flicksdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD1F42-56CA-4D22-961F-BA7FAF1A4AED}|RentalManagement\\RentalManagement.csproj|solutionrelative:rentalmanagement\\data\\flicksdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Movie.cs",
+              "RelativeToolTip": "RentalManagement\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:29:16.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Person.cs",
+              "RelativeToolTip": "RentalManagement\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:31:31.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RentalManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RentalManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAgAQAAAIApwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T14:47:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlicksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Data\\FlicksDbContext.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Data\\FlicksDbContext.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Data\\FlicksDbContext.cs",
+              "RelativeToolTip": "RentalManagement\\Data\\FlicksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:44:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Models\\Rental.cs",
+              "RelativeToolTip": "RentalManagement\\Models\\Rental.cs",
+              "ViewState": "AgIAAB4AAAAAAwAAAAABwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:37:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "RentalManagement\\Controllers\\RentalsController.cs",
+              "ViewState": "AgIAAEAAAAAAZmZmZuYswCwBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:08:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlicksDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Data\\FlicksDbContextFactory.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Data\\FlicksDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Data\\FlicksDbContextFactory.cs",
+              "RelativeToolTip": "RentalManagement\\Data\\FlicksDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:05:34.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "RentalManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\labuser\\source\\repos\\RentalManagement\\RentalManagement\\Program.cs",
+              "RelativeToolTip": "RentalManagement\\Program.cs",
+              "ViewState": "AgIAABIAAABgmpmZmRkuwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:47:34.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

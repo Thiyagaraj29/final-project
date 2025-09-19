@@ -1,0 +1,6 @@
+@RentalManagement_HostAddress = http://localhost:5057
+
+GET {{RentalManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
